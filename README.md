@@ -166,6 +166,8 @@ A continuación se muestran demostraciones ejecutadas con el programa de testeo 
 ![Creando con aula inexistente](./api/docs/imgs/add_aula_incorrecta.png)
 - Creacion cuando falta un gampo (grupo)
 ![Creando con aula inexistente](./api/docs/imgs/add_sense_grup.png)
+- Creacion de multiples alumnos
+![Creando multiples alumnos](./api/docs/imgs/loadAlumnes.png)
 
 ### Obtencion de alumnos (READ)
 - Listado de alumnos normal
@@ -190,6 +192,8 @@ A continuación se muestran demostraciones ejecutadas con el programa de testeo 
 ![Eliminar Alumno](./api/docs/imgs/detele_correcte.png)
 - Eliminación de alumno inexistente
 ![Eliminar Alumno inexistente](./api/docs/imgs/delete_sense_alumne.png)
+- Eliminación de todos los datos (alumnos + aulas)
+![Eliminando entradas de datos](./api/docs/imgs/delete_all.png)
 
 
 
